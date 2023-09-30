@@ -8,7 +8,7 @@
 
 # Aliexpress - Notification Purchase update
 
-![Notification Banner](https://www.visus.pt/visusnews/brandsforwardservice/brickcom/201207/images/0526_4_05.jpg)
+![Notification Banner]()
 
 # Aliexpress-Notification
 A simple script to send aliexpress purchase updates via email and SMS. SMTP Server: Outlook/Gmail SMPP Server: Twilio.
