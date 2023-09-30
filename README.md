@@ -8,9 +8,10 @@
 
 # Aliexpress - Notification Purchase update
 
-![Notification Banner]()
+)
 
 # Aliexpress-Notification
+
 A simple script to send aliexpress purchase updates via email and SMS. SMTP Server: Outlook/Gmail SMPP Server: Twilio.
 
 # How to install ?
@@ -19,7 +20,7 @@ A simple script to send aliexpress purchase updates via email and SMS. SMTP Serv
 `cd Aliexpress-Notification`
 
 *Abra o Agendador de Tarefas*
-<img width="400" alt="image" src="https://github.com/DreadPirateRobertt/Aliexpress-Notification/assets/82410029/df23d81a-f409-4ff8-befd-1c1efcfab438">
+![Notification Banner](https://github.com/DreadPirateRobertt/Aliexpress-Notification/assets/82410029/df23d81a-f409-4ff8-befd-1c1efcfab438)
 *Criando um novo Disparador*
 <img width="400" alt="image" src="https://github.com/DreadPirateRobertt/Aliexpress-Notification/assets/82410029/ea40a70d-3b64-4adc-b51a-c9c412186124">
 *Ações*
