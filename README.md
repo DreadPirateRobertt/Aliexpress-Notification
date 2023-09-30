@@ -8,7 +8,7 @@
 
 # Aliexpress - Notification Purchase update
 
-)
+
 
 # Aliexpress-Notification
 
@@ -17,9 +17,11 @@ A simple script to send aliexpress purchase updates via email and SMS. SMTP Serv
 # How to install ?
 
 `git clone https://github.com/DreadPirateRobertt/Aliexpress-Notification.git`
+
 `cd Aliexpress-Notification`
 
 *Abra o Agendador de Tarefas*
+
 <img width="600" alt="image" src="https://github.com/DreadPirateRobertt/Aliexpress-Notification/assets/82410029/df23d81a-f409-4ff8-befd-1c1efcfab438">
 
 *Criando um novo Disparador*
