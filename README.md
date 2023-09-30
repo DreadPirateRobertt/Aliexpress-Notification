@@ -1,14 +1,10 @@
-/[![Version](https://img.shields.io/badge/Aliexpress-Notification_Update_Purchase-magenta.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/Aliexpress-Notification_Update_Purchase-magenta.svg?maxAge=259200)]()
 [![Engine](https://img.shields.io/badge/SMTP-red.svg)]()
 [![Engine](https://img.shields.io/badge/SMPP(SMS)-blue.svg)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Linux,_Windows,_Mac_OS-green.svg)]()
 [![Build](https://img.shields.io/badge/Version-Python3-green.svg)]()
 [![Build](https://img.shields.io/badge/TaskManager-yellow.svg)]()
-
-# Aliexpress - Notification Purchase update
-
-
 
 # Aliexpress-Notification
 
